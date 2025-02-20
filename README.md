@@ -4,3 +4,4 @@ Novas funcionalidades:
 
 - Foi adicionada uma interface que permite ao usuário interagir com o sistema através de um teclado numérico.
 - Foram adicionados novos animais, como Vaca, Ovelha, Pintinho e Peixe, com implementações personalizadas.
+- Implementação de comentarios
